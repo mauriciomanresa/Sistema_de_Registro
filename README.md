@@ -2,3 +2,5 @@
 
 - Estado del proyecto: en construcción.
   
+Para ejecutar el sistemna debes poner: 
+npm install react
